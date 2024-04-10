@@ -11,8 +11,6 @@
 - Come along with us as we dive into the secret world of sock puppets in OSINT and cybersecurity. In this blog, we'll uncover why they matter, why people make them, how to spot them, and the bad things they can do. Let's explore together as we reveal the secrets of these digital characters and how they affect online safety and honesty.
 
 
-## Section 1 : Understanding Sockpuppets
-
 ### What are Sockpuppets?
 
 - Sockpuppets are fake online identities created by individuals or groups to deceive others and manipulate online conversations or activities.
